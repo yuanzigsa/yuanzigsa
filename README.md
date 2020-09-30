@@ -1,2 +1,1 @@
-# yuanzistudy
-hellow  im first one to  use this 
+C程序学习历程
